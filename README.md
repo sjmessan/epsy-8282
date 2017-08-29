@@ -54,6 +54,13 @@ Below is the required reading you will need to do for the course. Some are tradi
 
 #### Matrix Algebra
 
+Read and work through the following:
+
+- *02-matrix-algebra.pdf* notes on github (we will cover the *02-regression-using-matrices.pdf* notes in class)
+
+Additional resources:
+
+- Fox, J. (2009). [Matrices, linear algebra, and vector geometry (pp. 2&ndash;48)](https://primo.lib.umn.edu/primo-explore/fulldisplay?docid=UMN_ALMA21325943720001701&context=L&vid=TWINCITIES&search_scope=mncat_discovery&tab=article_discovery&lang=en_US). _A mathematical primer for social statistics._ Thousand Oaks, CA: Sage. 
 - Irizarry, R., &amp; Love, M. (n.d.). Chapter 4: Matrix algebra. In [PH525x series - Biomedical data science](http://genomicsclass.github.io/book/).
 
 <br />
@@ -62,8 +69,13 @@ ___
 
 #### Longitudinal Data Structures
 
-- Ejdemyr, S. (2016, January). [Wide &amp; long data](https://stanford.edu/~ejdemyr/r-tutorials/wide-and-long/). 
+Read the following:
+
 - Grolemund, G., &amp; Wickham, H. (2017). [Tidy data](http://r4ds.had.co.nz/tidy-data.html). In _R for data science_. O’Reilly Media.
+
+Additional resources:
+
+- Ejdemyr, S. (2016, January). [Wide &amp; long data](https://stanford.edu/~ejdemyr/r-tutorials/wide-and-long/). 
 
 <br />
 
@@ -71,9 +83,15 @@ ___
 
 #### Missing Data
 
+Read pp. 1&ndash;10 of the following:
+
+- Soley-Bori, M. (2013). [Dealing with missing data: Key assumptions and methods for applied analysis](http://www.bu.edu/sph/files/2014/05/Marina-tech-report.pdf) (Report No. 4). Boston: Boston University School of Public Health.
+
+Additional resources:
+
 - Alice, M. (2015). [Imputing Missing Data with R; MICE package](https://datascienceplus.com/imputing-missing-data-with-r-mice-package/).
 - Honaker, J., King, G., &amp; Blackwell, M. (2015). [AMELIA II: A Program for Missing Data](https://cran.r-project.org/web/packages/Amelia/vignettes/amelia.pdf). R vignette. (see also, [https://gking.harvard.edu/amelia](https://gking.harvard.edu/amelia))
-- Soley-Bori, M. (2013). [Dealing with missing data: Key assumptions and methods for applied analysis](http://www.bu.edu/sph/files/2014/05/Marina-tech-report.pdf) (Report No. 4). Boston: Boston University School of Public Health.
+
 
 <br />
 
@@ -81,8 +99,13 @@ ___
 
 #### Describing and Plotting Longitudinal Data
 
+Read the following:
+
 - Irizarry, R., &amp; Love, M. (n.d.). [dplyr tutorial](http://genomicsclass.github.io/book/pages/dplyr_tutorial.html). In _PH525x series - Biomedical data science_.
 - Obradović, J., Long, J., Cutuli, J., Chan, C., Hinz, E., Heistad, D., &amp; Masten, A. (2009). [Academic achievement of homeless and highly mobile children in an urban school district: Longitudinal evidence on risk, growth, and resilience.](https://primo.lib.umn.edu/primo-explore/fulldisplay?docid=TN_cambridgeS0954579409000273&context=PC&vid=TWINCITIES&search_scope=mncat_discovery&tab=article_discovery&lang=en_US) _Development and Psychopathology, 21_(2), 493-518. doi:10.1017/S0954579409000273
+
+Additional resources:
+
 - Spruyt, V. (2014). [A geometric interpretation of the covariance matrix](http://www.visiondummy.com/2014/04/geometric-interpretation-covariance-matrix/).
 - Swihart, B. J., Caffo, B., James, B. D., Strand, M., Schwartz, B. S., &amp; Punjabi, N. M. (2010). [Lasagna plots: A saucy alternative to spaghetti plots.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2937254/) *Epidemiology, 21*(5), 621&ndash;625.
 - UCLA Statistical Computing Group. [How can I visualize longitudinal data in ggplot2?](https://stats.idre.ucla.edu/r/faq/how-can-i-visualize-longitudinal-data-in-ggplot2/)
@@ -96,6 +119,12 @@ ___
 
 #### Classical Analysis of Longitudinal Data
 
+Read the following:
+
+- Field, A. (1998). [A bluffer's guide to ... sphericity](https://www.discoveringstatistics.com/repository/sphericity.pdf). *The British Psychological Society: Mathematical, Statistical & Computing Section Newsletter, 6*, 13&ndash;22.
+
+Additional resources:
+
 - Dimitrov, D. M., & Jr, P. D. R. (2003). [Pretest&ndash;posttest designs and measurement of change](https://primo.lib.umn.edu/primo-explore/fulldisplay?docid=TN_medline12671209&context=PC&vid=TWINCITIES&search_scope=mncat_discovery&tab=article_discovery&lang=en_US
 ). _Work, 20_(2), 159&ndash;165.
 - Field, A. (2016). [Repeated measures ANOVA handout](http://www.discoveringstatistics.com/docs/repeatedmeasures.pdf).
@@ -107,7 +136,7 @@ ___
 
 
 
-#### Linear Mixed-Effects Regression (LMER) Models
+<!-- #### Linear Mixed-Effects Regression (LMER) Models
 
 
 - Stack Overflow. [How does lmer (from the R package lme4) compute log likelihood?](http://stackoverflow.com/questions/20980116/how-does-lmer-from-the-r-package-lme4-compute-log-likelihood)
@@ -163,3 +192,4 @@ ___
 
 
 
+-->
