@@ -136,11 +136,18 @@ ___
 
 
 
-<!-- #### Linear Mixed-Effects Regression (LMER) Models
+#### Linear Mixed-Effects Regression (LMER) Models
 
+Read the following:
 
-- Stack Overflow. [How does lmer (from the R package lme4) compute log likelihood?](http://stackoverflow.com/questions/20980116/how-does-lmer-from-the-r-package-lme4-compute-log-likelihood)
+- Fitzmaurice, G., &amp; Molenberghs, G. (2008). [Advances in longitudinal data analysis: An historical perspective](https://content.sph.harvard.edu/fitzmaur/lda/C6587_C001.pdf). In G. Verbeke, M. Davidian, G. Fitzmaurice &amp; G. Molenberghs (Eds.), *Longitudinal data analysis* (pp. 3&ndash;27). Boca Raton, FL: Chapman and Hall/CRC.
 - Uchikoshi, Y. (2005). [Narrative development in bilingual kindergarteners: Can Arthur help?](http://psycnet.apa.org.ezp3.lib.umn.edu/journals/dev/41/3/464) *Developmental Psychology, 41*(3), 464&ndash;478. doi: 10.1037/0012-1649.41.3.464
+
+Additional resources:
+
+- Lee, D.-J. [Introduction to mixed models with R](https://idaejin.github.io/bcam-courses/neiker-2016/material/mixed-models/). Basque Center for Applied Mathematics.
+- Stack Overflow. [How does lmer (from the R package lme4) compute log likelihood?](http://stackoverflow.com/questions/20980116/how-does-lmer-from-the-r-package-lme4-compute-log-likelihood)
+
 
 <br />
 
@@ -149,24 +156,38 @@ ___
 
 #### Inference with LMER Models
 
-- [The Bootstrap](https://www.youtube.com/watch?v=_nhgHjdLE-I) a YouTube video lecture by Jeff Leek (Johns Hopkins University)
+Read the following:
+
+- Social Science Computing Cooperative. [Mixed models: Testing significance of effects](http://www.ssc.wisc.edu/sscc/pubs/MM/MM_TestEffects.html). 
+
+
+Additional Resources:
+
+- Stryhn, H., &amp; Christensen, J. (2003). [Confidence intervals by the profile likelihood method, with applications in
+veterinary epidemiology](http://people.upei.ca/hstryhn/stryhn208.pdf). Paper presented at ISVEE X, Chile.
+
+
 
 <br />
 
 ___
 
 
-#### Information Criteria for Model Selection
+#### Information Criteria and Model Selection
 
-- Burnham, K. C., &amp; Anderson, D. R. (2004). [Multimodel inference: Understanding AIC and BIC in model selection](http://smr.sagepub.com.ezp2.lib.umn.edu/content/33/2/261.full.pdf+html). _Sociological Methods and Research, 33_, 261&ndash;304.
+Read the following:
+
 - Burnham, K. P., Anderson, D. R., &amp; Huyvaert, K. P. (2010). [AIC model selection and multimodel inference in behavioral ecology: Some background, observations, and comparisons](http://doi.org/10.1007/s00265-010-1029-6). *Behavioral Ecology and Sociobiology, 65*(1), 23&ndash;35.
 
+Additional Resources:
+
+- Burnham, K. C., &amp; Anderson, D. R. (2004). [Multimodel inference: Understanding AIC and BIC in model selection](http://smr.sagepub.com.ezp2.lib.umn.edu/content/33/2/261.full.pdf+html). _Sociological Methods and Research, 33_, 261&ndash;304.
 
 
 <br />
 
 ___
-#### Matrix Formulation of the LMER Model
+<!-- #### Matrix Formulation of the LMER Model
 
 
 <br />
